@@ -10,3 +10,4 @@ the skunk stank like skunks do
 this line was added with atom
 commit to atom-test branch
 leave this uncommitted
+adding a new line below the one deleted in browser
