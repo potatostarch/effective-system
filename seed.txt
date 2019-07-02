@@ -9,5 +9,5 @@ in the forest lives a skunk
 the skunk stank like skunks do
 this line was added with atom
 commit to atom-test branch
-leave this uncommitted
-adding a new line below the one deleted in browser
+new line created in browser
+this line goes with the new one from the browser
