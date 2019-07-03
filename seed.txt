@@ -11,3 +11,5 @@ this line was added with atom
 commit to atom-test branch
 new line created in browser
 this line goes with the new one from the browser
+line added in master
+low life elite
