@@ -11,5 +11,7 @@ git add .
 
 git commit > i > esc > :wq
 
+.gitignore // add files or dirs e.g. log.txt, /dir2, etc
+
 linuxy command line for windows:
 http://git-scm/download/win
