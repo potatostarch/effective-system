@@ -1,0 +1,10 @@
+$git init
+$git add  //add files to index)
+$git status //check status
+$git commit //commit changes in index
+$git push // push to remote repository (service, password)
+$git pull // get the latest
+$git clone // download repo to your machine
+
+linuxy command line for windows:
+http://git-scm/download/win
